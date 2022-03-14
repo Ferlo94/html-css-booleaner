@@ -1,21 +1,13 @@
-body{ 
+body { 
     margin: 0px;
-
 }
-
-.banner-sfondo{
+.banner-sfondo {
     height: 170px;
     background-color: rgb(54, 136, 230);
     background-image: url(../img/pattern.png);
     background-position: auto;
-    
-
 }
 .logo-banner {
-
   height: 60px;
   padding-top: 100px;
-
-
-
 }
