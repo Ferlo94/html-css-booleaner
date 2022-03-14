@@ -32,6 +32,10 @@ ul {
     background-color: yellow;
 }
 
+table {
+    width: 100%;
+}
+
 th {
     background-color: rgb(54, 136, 230);
 }
