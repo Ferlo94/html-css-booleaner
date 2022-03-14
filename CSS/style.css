@@ -32,7 +32,10 @@ ul {
     background-color: yellow;
 }
 
-.blu-tabella {
-
+th {
     background-color: rgb(54, 136, 230);
+}
+
+.sfondo-celestino {
+    background-color: lightblue;
 }
