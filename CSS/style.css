@@ -1,6 +1,4 @@
-body { 
-    margin: 0px;
-}
+
 .banner-sfondo {
     height: 170px;
     background-color: rgb(54, 136, 230);
@@ -10,4 +8,7 @@ body {
 .logo-banner {
   height: 60px;
   padding-top: 100px;
+}
+.grigetto {
+    color: grey;
 }
