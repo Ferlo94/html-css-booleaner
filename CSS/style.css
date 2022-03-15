@@ -34,6 +34,7 @@ ul {
 
 table {
     width: 100%;
+    border-collapse: collapse;
 }
 
 th {
@@ -52,7 +53,6 @@ td {
     position: relative;
 
 }
-
 
 .scritta1 {
     color: white;
